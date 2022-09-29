@@ -12,24 +12,25 @@ data = {'year':  [],
         }
 
 df = pd.DataFrame(data)
-year = 2021
+year = 2019
 
 def print_df():
     # Use a breakpoint in the code line below to debug your script.
     print(len(df))
     #for d in df.iloc:
     #    print(d)
-    df.to_csv(r'C:/projects/python/cdph/2021_ca.csv', index=False)
+    df.to_csv('/Users/danielwang/projects/cdc/CrudeCounty2021.csv', index=False)
 
 def parseCounty(county, sjson):
     y = json.loads(sjson)
+    allcounties = y["data"];
     for r in y["data"]:
         df.loc[len(df.index)] = [year, county.strip(), r[0], r[1], r[2], r[3], r[4]]
 
 def parseFile():
     # opening file in reading mode
     lastLine = ""
-    with open('C:/projects/python/cdph/ca2021.txt', 'r') as fileobj:
+    with open('/Users/danielwang/projects/cdc/CrudeCounty2021.txt', 'r') as fileobj:
         while (True):
             line = fileobj.readline()
             if not line:
