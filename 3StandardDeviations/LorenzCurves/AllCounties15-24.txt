@@ -1,0 +1,581 @@
+County	Age	Population
+Alameda County	15	20,375 
+Alameda County	16	20,306
+Alameda County	17	20,498
+Alameda County	18	22,454
+Alameda County	19	24,029
+Alameda County	20	24,387
+Alameda County	21	23,863
+Alameda County	22	23,689
+Alameda County	23	24,102
+Alameda County	24	24,583
+Alpine County	15	17
+Alpine County	16	13
+Alpine County	17	14
+Alpine County	18	17
+Alpine County	19	15
+Alpine County	20	13
+Alpine County	21	18
+Alpine County	22	13
+Alpine County	23	12
+Alpine County	24	14
+Amador County	15	331
+Amador County	16	362
+Amador County	17	437
+Amador County	18	428
+Amador County	19	344
+Amador County	20	452
+Amador County	21	450
+Amador County	22	431
+Amador County	23	458
+Amador County	24	465
+Butte County	15	2,976
+Butte County	16	2,937
+Butte County	17	2,944
+Butte County	18	3,944
+Butte County	19	5,076
+Butte County	20	5,978
+Butte County	21	5,758
+Butte County	22	5,373
+Butte County	23	4,917
+Butte County	24	4,331
+Calaveras County	15	438
+Calaveras County	16	456
+Calaveras County	17	455
+Calaveras County	18	451
+Calaveras County	19	466
+Calaveras County	20	493
+Calaveras County	21	505
+Calaveras County	22	503
+Calaveras County	23	539
+Calaveras County	24	527
+Colusa County	15	387
+Colusa County	16	364
+Colusa County	17	356
+Colusa County	18	341
+Colusa County	19	331
+Colusa County	20	350
+Colusa County	21	335
+Colusa County	22	333
+Colusa County	23	316
+Colusa County	24	300
+Contra Costa County	15	15,151
+Contra Costa County	16	14,823
+Contra Costa County	17	14,466
+Contra Costa County	18	13,865
+Contra Costa County	19	13,469
+Contra Costa County	20	12,957
+Contra Costa County	21	12,894
+Contra Costa County	22	12,878
+Contra Costa County	23	13,033
+Contra Costa County	24	13,211
+Del Norte County	15	339
+Del Norte County	16	277
+Del Norte County	17	302
+Del Norte County	18	297
+Del Norte County	19	344
+Del Norte County	20	407
+Del Norte County	21	428
+Del Norte County	22	399
+Del Norte County	23	394
+Del Norte County	24	458
+El Dorado County	15	2,653
+El Dorado County	16	2,558
+El Dorado County	17	2,611
+El Dorado County	18	2,606
+El Dorado County	19	2,687
+El Dorado County	20	2,630
+El Dorado County	21	2,698
+El Dorado County	22	2,659
+El Dorado County	23	2,605
+El Dorado County	24	2,636
+Fresno County	15	15,876
+Fresno County	16	15,419
+Fresno County	17	15,590
+Fresno County	18	17,260
+Fresno County	19	18,033
+Fresno County	20	18,782
+Fresno County	21	18,146
+Fresno County	22	17,427
+Fresno County	23	17,010
+Fresno County	24	16,614
+Glenn County	15	474
+Glenn County	16	452
+Glenn County	17	418
+Glenn County	18	396
+Glenn County	19	416
+Glenn County	20	426
+Glenn County	21	425
+Glenn County	22	451
+Glenn County	23	438
+Glenn County	24	391
+Humboldt County	15	1,759
+Humboldt County	16	1,739
+Humboldt County	17	1,720
+Humboldt County	18	2,328
+Humboldt County	19	2,451
+Humboldt County	20	3,169
+Humboldt County	21	2,433
+Humboldt County	22	2,144
+Humboldt County	23	2,435
+Humboldt County	24	2,292
+Imperial County	15	2,824
+Imperial County	16	2,844
+Imperial County	17	2,948
+Imperial County	18	2,769
+Imperial County	19	2,807
+Imperial County	20	2,900
+Imperial County	21	3,040
+Imperial County	22	2,995
+Imperial County	23	2,982
+Imperial County	24	3,088
+Inyo County	15	240
+Inyo County	16	234
+Inyo County	17	213
+Inyo County	18	187
+Inyo County	19	187
+Inyo County	20	168
+Inyo County	21	183
+Inyo County	22	199
+Inyo County	23	157
+Inyo County	24	199
+Kern County	15	14,580
+Kern County	16	14,119
+Kern County	17	14,079
+Kern County	18	14,740
+Kern County	19	14,899
+Kern County	20	15,918
+Kern County	21	15,883
+Kern County	22	15,332
+Kern County	23	15,198
+Kern County	24	15,101
+Kings County	15	2,815
+Kings County	16	2,740
+Kings County	17	2,534
+Kings County	18	2,446
+Kings County	19	2,476
+Kings County	20	2,663
+Kings County	21	2,640
+Kings County	22	2,678
+Kings County	23	2,668
+Kings County	24	2,627
+Lake County	15	771
+Lake County	16	750
+Lake County	17	744
+Lake County	18	722
+Lake County	19	710
+Lake County	20	731
+Lake County	21	736
+Lake County	22	717
+Lake County	23	727
+Lake County	24	761
+Lassen County	15	273
+Lassen County	16	255
+Lassen County	17	262
+Lassen County	18	318
+Lassen County	19	318
+Lassen County	20	465
+Lassen County	21	514
+Lassen County	22	560
+Lassen County	23	549
+Lassen County	24	575
+Los Angeles County	15	130,086
+Los Angeles County	16	129,344
+Los Angeles County	17	129,844
+Los Angeles County	18	140,768
+Los Angeles County	19	147,110
+Los Angeles County	20	151,102
+Los Angeles County	21	150,864
+Los Angeles County	22	147,115
+Los Angeles County	23	145,327
+Los Angeles County	24	144,514
+Madera County	15	2,423
+Madera County	16	2,399
+Madera County	17	2,395
+Madera County	18	2,334
+Madera County	19	2,406
+Madera County	20	2,568
+Madera County	21	2,550
+Madera County	22	2,544
+Madera County	23	2,531
+Madera County	24	2,542
+Marin County	15	3,421
+Marin County	16	3,579
+Marin County	17	3,327
+Marin County	18	3,068
+Marin County	19	2,840
+Marin County	20	2,600
+Marin County	21	2,462
+Marin County	22	2,398
+Marin County	23	2,340
+Marin County	24	2,452
+Mariposa County	15	139
+Mariposa County	16	183
+Mariposa County	17	161
+Mariposa County	18	166
+Mariposa County	19	172
+Mariposa County	20	171
+Mariposa County	21	199
+Mariposa County	22	201
+Mariposa County	23	193
+Mariposa County	24	221
+Mendocino County	15	1,106
+Mendocino County	16	1,026
+Mendocino County	17	1,087
+Mendocino County	18	1,029
+Mendocino County	19	1,038
+Mendocino County	20	1,064
+Mendocino County	21	1,023
+Mendocino County	22	1,017
+Mendocino County	23	1,059
+Mendocino County	24	982
+Merced County	15	4,954
+Merced County	16	4,830
+Merced County	17	4,876
+Merced County	18	5,293
+Merced County	19	5,470
+Merced County	20	5,652
+Merced County	21	5,274
+Merced County	22	4,969
+Merced County	23	4,730
+Merced County	24	4,530
+Modoc County	15	106
+Modoc County	16	103
+Modoc County	17	118
+Modoc County	18	130
+Modoc County	19	106
+Modoc County	20	122
+Modoc County	21	119
+Modoc County	22	121
+Modoc County	23	114
+Modoc County	24	121
+Mono County	15	195
+Mono County	16	189
+Mono County	17	170
+Mono County	18	145
+Mono County	19	159
+Mono County	20	170
+Mono County	21	138
+Mono County	22	140
+Mono County	23	146
+Mono County	24	147
+Monterey County	15	6,670
+Monterey County	16	6,595
+Monterey County	17	6,572
+Monterey County	18	6,882
+Monterey County	19	7,022
+Monterey County	20	6,788
+Monterey County	21	6,616
+Monterey County	22	6,586
+Monterey County	23	6,558
+Monterey County	24	6,648
+Napa County	15	1,864
+Napa County	16	1,825
+Napa County	17	1,774
+Napa County	18	1,865
+Napa County	19	1,731
+Napa County	20	1,804
+Napa County	21	1,820
+Napa County	22	1,880
+Napa County	23	1,952
+Napa County	24	1,942
+Nevada County	15	948
+Nevada County	16	977
+Nevada County	17	967
+Nevada County	18	990
+Nevada County	19	1,039
+Nevada County	20	1,094
+Nevada County	21	1,179
+Nevada County	22	1,179
+Nevada County	23	1,219
+Nevada County	24	1,255
+Orange County	15	42,947
+Orange County	16	42,554
+Orange County	17	42,011
+Orange County	18	46,328
+Orange County	19	47,504
+Orange County	20	48,370
+Orange County	21	47,413
+Orange County	22	46,278
+Orange County	23	44,457
+Orange County	24	44,484
+Placer County	15	4,852
+Placer County	16	4,745
+Placer County	17	4,773
+Placer County	18	4,673
+Placer County	19	4,556
+Placer County	20	4,511
+Placer County	21	4,547
+Placer County	22	4,544
+Placer County	23	4,249
+Placer County	24	4,334
+Plumas County	15	184
+Plumas County	16	230
+Plumas County	17	217
+Plumas County	18	211
+Plumas County	19	202
+Plumas County	20	193
+Plumas County	21	224
+Plumas County	22	178
+Plumas County	23	243
+Plumas County	24	197
+Riverside County	15	36,597
+Riverside County	16	35,497
+Riverside County	17	35,492
+Riverside County	18	36,136
+Riverside County	19	36,357
+Riverside County	20	37,060
+Riverside County	21	36,985
+Riverside County	22	36,139
+Riverside County	23	35,597
+Riverside County	24	35,324
+Sacramento County	15	21,505
+Sacramento County	16	21,191
+Sacramento County	17	20,742
+Sacramento County	18	22,640
+Sacramento County	19	23,865
+Sacramento County	20	24,951
+Sacramento County	21	24,284
+Sacramento County	22	24,024
+Sacramento County	23	23,318
+Sacramento County	24	23,746
+San Benito County	15	875
+San Benito County	16	822
+San Benito County	17	854
+San Benito County	18	824
+San Benito County	19	866
+San Benito County	20	927
+San Benito County	21	967
+San Benito County	22	970
+San Benito County	23	1,051
+San Benito County	24	1,056
+San Bernardino County	15	34,487
+San Bernardino County	16	33,671
+San Bernardino County	17	33,091
+San Bernardino County	18	34,635
+San Bernardino County	19	34,619
+San Bernardino County	20	35,906
+San Bernardino County	21	35,937
+San Bernardino County	22	34,569
+San Bernardino County	23	33,900
+San Bernardino County	24	33,596
+San Diego County	15	47,179
+San Diego County	16	45,450
+San Diego County	17	44,998
+San Diego County	18	48,677
+San Diego County	19	50,225
+San Diego County	20	54,953
+San Diego County	21	53,739
+San Diego County	22	51,494
+San Diego County	23	49,839
+San Diego County	24	50,087
+San Francisco County	15	6,321
+San Francisco County	16	6,499
+San Francisco County	17	6,336
+San Francisco County	18	7,982
+San Francisco County	19	9,358
+San Francisco County	20	9,085
+San Francisco County	21	9,507
+San Francisco County	22	9,820
+San Francisco County	23	9,933
+San Francisco County	24	10,571
+San Joaquin County	15	12,229
+San Joaquin County	16	12,333
+San Joaquin County	17	11,786
+San Joaquin County	18	11,739
+San Joaquin County	19	12,043
+San Joaquin County	20	12,231
+San Joaquin County	21	12,170
+San Joaquin County	22	11,976
+San Joaquin County	23	11,776
+San Joaquin County	24	11,869
+San Luis Obispo County	15	3,586
+San Luis Obispo County	16	3,645
+San Luis Obispo County	17	3,723
+San Luis Obispo County	18	5,144
+San Luis Obispo County	19	5,915
+San Luis Obispo County	20	6,486
+San Luis Obispo County	21	6,850
+San Luis Obispo County	22	5,777
+San Luis Obispo County	23	4,691
+San Luis Obispo County	24	4,126
+San Mateo County	15	9,216
+San Mateo County	16	8,947
+San Mateo County	17	8,539
+San Mateo County	18	7,991
+San Mateo County	19	7,718
+San Mateo County	20	7,302
+San Mateo County	21	7,358
+San Mateo County	22	7,232
+San Mateo County	23	7,386
+San Mateo County	24	7,794
+Santa Barbara County	15	6,551
+Santa Barbara County	16	6,421
+Santa Barbara County	17	6,403
+Santa Barbara County	18	7,772
+Santa Barbara County	19	11,090
+Santa Barbara County	20	11,363
+Santa Barbara County	21	11,121
+Santa Barbara County	22	7,764
+Santa Barbara County	23	6,744
+Santa Barbara County	24	6,543
+Santa Clara County	15	26,388
+Santa Clara County	16	25,764
+Santa Clara County	17	25,137
+Santa Clara County	18	26,803
+Santa Clara County	19	26,270
+Santa Clara County	20	26,741
+Santa Clara County	21	25,299
+Santa Clara County	22	24,656
+Santa Clara County	23	24,598
+Santa Clara County	24	25,191
+Santa Cruz County	15	3,895
+Santa Cruz County	16	3,818
+Santa Cruz County	17	3,984
+Santa Cruz County	18	4,824
+Santa Cruz County	19	7,222
+Santa Cruz County	20	6,227
+Santa Cruz County	21	6,423
+Santa Cruz County	22	4,757
+Santa Cruz County	23	4,393
+Santa Cruz County	24	4,051
+Shasta County	15	2,264
+Shasta County	16	2,188
+Shasta County	17	2,139
+Shasta County	18	2,159
+Shasta County	19	2,212
+Shasta County	20	2,303
+Shasta County	21	2,243
+Shasta County	22	2,241
+Shasta County	23	2,170
+Shasta County	24	2,203
+Sierra County	15	24
+Sierra County	16	21
+Sierra County	17	26
+Sierra County	18	29
+Sierra County	19	29
+Sierra County	20	30
+Sierra County	21	25
+Sierra County	22	32
+Sierra County	23	34
+Sierra County	24	33
+Siskiyou County	15	456
+Siskiyou County	16	498
+Siskiyou County	17	518
+Siskiyou County	18	478
+Siskiyou County	19	497
+Siskiyou County	20	481
+Siskiyou County	21	567
+Siskiyou County	22	529
+Siskiyou County	23	537
+Siskiyou County	24	544
+Solano County	15	6,131
+Solano County	16	6,164
+Solano County	17	6,047
+Solano County	18	6,084
+Solano County	19	6,248
+Solano County	20	6,656
+Solano County	21	6,550
+Solano County	22	6,639
+Solano County	23	6,641
+Solano County	24	6,398
+Sonoma County	15	5,979
+Sonoma County	16	5,959
+Sonoma County	17	6,038
+Sonoma County	18	6,775
+Sonoma County	19	6,895
+Sonoma County	20	6,832
+Sonoma County	21	6,555
+Sonoma County	22	6,187
+Sonoma County	23	6,047
+Sonoma County	24	5,997
+Stanislaus County	15	8,355
+Stanislaus County	16	8,241
+Stanislaus County	17	8,265
+Stanislaus County	18	9,175
+Stanislaus County	19	9,735
+Stanislaus County	20	9,570
+Stanislaus County	21	9,230
+Stanislaus County	22	9,286
+Stanislaus County	23	9,092
+Stanislaus County	24	9,236
+Sutter County	15	1,433
+Sutter County	16	1,454
+Sutter County	17	1,449
+Sutter County	18	1,427
+Sutter County	19	1,398
+Sutter County	20	1,446
+Sutter County	21	1,408
+Sutter County	22	1,495
+Sutter County	23	1,386
+Sutter County	24	1,448
+Tehama County	15	901
+Tehama County	16	872
+Tehama County	17	845
+Tehama County	18	823
+Tehama County	19	786
+Tehama County	20	858
+Tehama County	21	807
+Tehama County	22	803
+Tehama County	23	768
+Tehama County	24	774
+Trinity County	15	151
+Trinity County	16	155
+Trinity County	17	133
+Trinity County	18	115
+Trinity County	19	140
+Trinity County	20	130
+Trinity County	21	123
+Trinity County	22	140
+Trinity County	23	137
+Trinity County	24	141
+Tulare County	15	8,285
+Tulare County	16	8,170
+Tulare County	17	8,004
+Tulare County	18	7,808
+Tulare County	19	7,426
+Tulare County	20	7,626
+Tulare County	21	7,459
+Tulare County	22	7,136
+Tulare County	23	6,845
+Tulare County	24	6,911
+Tuolumne County	15	535
+Tuolumne County	16	510
+Tuolumne County	17	546
+Tuolumne County	18	502
+Tuolumne County	19	479
+Tuolumne County	20	542
+Tuolumne County	21	606
+Tuolumne County	22	590
+Tuolumne County	23	617
+Tuolumne County	24	665
+Ventura County	15	11,702
+Ventura County	16	11,579
+Ventura County	17	11,549
+Ventura County	18	11,931
+Ventura County	19	11,856
+Ventura County	20	11,953
+Ventura County	21	11,617
+Ventura County	22	11,266
+Ventura County	23	10,946
+Ventura County	24	11,141
+Yolo County	15	3,573
+Yolo County	16	3,401
+Yolo County	17	3,541
+Yolo County	18	5,238
+Yolo County	19	7,307
+Yolo County	20	8,399
+Yolo County	21	7,989
+Yolo County	22	6,975
+Yolo County	23	5,453
+Yolo County	24	5,406
+Yuba County	15	1,190
+Yuba County	16	1,156
+Yuba County	17	1,165
+Yuba County	18	1,148
+Yuba County	19	1,053
+Yuba County	20	1,067
+Yuba County	21	1,083
+Yuba County	22	1,060
+Yuba County	23	1,042
+Yuba County	24	1,079
