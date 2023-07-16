@@ -1,0 +1,61 @@
+county,rate,num1,num2,num3,deaths
+Inyo,108.695,29.615,579.0325,54.3475,Less than six
+Nevada,43.17,11.76,150.34,21.585,Less than six
+Kern,19.1325,10.6175,32.33,5.0875,13
+Yuba,18.8825,5.145,100.5825,9.44,Less than six
+Riverside,17.005,11.5175,24.23,3.08,30
+Sutter,14.845,4.045,79.08,7.4225,Less than six
+San Bernardino,14.26,9.28,21.28,2.87,22
+Santa Clara,12.7775,7.4625,20.7925,3.1425,15
+Marin,12.65,3.445,44.05,6.325,Less than six
+Placer,12.1725,3.315,34.895,6.0825,Less than six
+Napa,11.97,3.2625,63.77,5.985,Less than six
+San Joaquin,10.6075,5.0075,22.17,3.5375,6
+Los Angeles,10.4525,8.0825,13.315,1.2925,64
+Orange,10.445,6.49,15.94,2.265,21
+Sonoma,10.2825,3.895,28.6,4.135,Less than six
+California,9.868,8.6825,11.1615,0.6225,250
+Monterey,9.5475,3.615,26.5625,3.8425,Less than six
+Kings,9.475,2.5825,50.47,4.7375,Less than six
+San Luis Obispo,9.19,2.505,32.0,4.595,Less than six
+Merced,8.26,2.25,28.775,4.13,Less than six
+San Diego,8.2025,4.8475,13.07,1.9525,17
+Stanislaus,7.5075,2.0475,21.5375,3.7575,Less than six
+Alameda,7.345,3.1,15.0025,2.7,7
+Butte,6.52,1.7775,34.7325,3.26,Less than six
+San Francisco,6.3425,2.7375,21.27,2.2425,Less than six
+Sacramento,6.24,2.36,13.52,2.51,6
+Santa Barbara,5.445,1.485,18.965,2.725,Less than six
+Ventura,5.435,2.0575,15.115,2.185,Less than six
+Tulare,5.26,2.2725,17.6425,1.86,Less than six
+San Mateo,4.8725,2.1025,16.3425,1.7225,Less than six
+Yolo,4.5375,1.2375,24.1725,2.27,Less than six
+Santa Cruz,4.4075,1.2,23.48,2.205,Less than six
+Fresno,4.11,1.555,11.43,1.6525,Less than six
+Contra Costa,4.0975,2.1175,10.94,1.1825,Less than six
+Alpine,0.0,0.0,4790.75,0.0,0
+Amador,0.0,0.0,225.21,0.0,0
+Calaveras,0.0,0.0,171.02,0.0,0
+Colusa,0.0,0.0,228.7,0.0,0
+Del Norte,0.0,0.0,254.06,0.0,0
+El Dorado,0.0,0.0,33.58,0.0,0
+Glenn,0.0,0.0,186.4,0.0,0
+Humboldt,0.0,0.0,41.41,0.0,0
+Imperial,0.0,0.0,27.36,0.0,0
+Lake,0.0,0.0,107.74,0.0,0
+Lassen,0.0,0.0,256.89,0.0,0
+Madera,0.0,0.0,32.95,0.0,0
+Mariposa,0.0,0.0,476.6,0.0,0
+Mendocino,0.0,0.0,75.05,0.0,0
+Modoc,0.0,0.0,803.68,0.0,0
+Mono,0.0,0.0,477.83,0.0,0
+Plumas,0.0,0.0,390.77,0.0,0
+San Benito,0.0,0.0,84.45,0.0,0
+Shasta,0.0,0.0,36.85,0.0,0
+Sierra,0.0,0.0,3581.44,0.0,0
+Siskiyou,0.0,0.0,162.15,0.0,0
+Solano,0.0,0.0,14.01,0.0,0
+Tehama,0.0,0.0,90.84,0.0,0
+Trinity,0.0,0.0,679.35,0.0,0
+Tuolumne,0.0,0.0,146.62,0.0,0
+Unknown,,0.0,,,Less than six
