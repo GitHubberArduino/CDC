@@ -1,0 +1,13 @@
+Year	Age	Gender	Deaths	Population	Crude Rate
+2021	15-24 years	Female	221	2,494,647	8.9
+2021	15-24 years	Male	647	2,615,434	24.7
+2021	25-34 years	Female	416	2,839,969	14.6
+2021	25-34 years	Male	1,760	2,999,673	58.7
+2021	35-44 years	Female	424	2,638,675	16.1
+2021	35-44 years	Male	1,580	2,767,766	57.1
+2021	45-54 years	Female	456	2,446,639	18.6
+2021	45-54 years	Male	1,390	2,480,907	56.0
+2021	55-64 years	Female	484	2,411,891	20.1
+2021	55-64 years	Male	1,488	2,365,841	62.9
+2021	65-74 years	Female	174	1,882,333	9.2
+2021	65-74 years	Male	496	1,675,680	29.6

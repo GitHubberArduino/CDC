@@ -1,0 +1,66 @@
+California Deaths by County -Total Population - 2021 ,,,,
+Any Opioid-Related Overdose : Crude Rate per 100k Residents,,,,
+County,Rates,95% LCL,95% UCL,Counts
+Alameda,12.092,10.49,13.875,203
+Alpine,88.263,24.047,470.178,1
+Amador,18.427,9.01,36.642,7
+Butte,27.322,21.035,34.94,62
+Calaveras,18.12,8.037,35.517,8
+California,17.957,17.545,18.377,7175
+Colusa,4.388,1.195,23.38,1
+Contra Costa,15.782,13.585,18.238,183
+Del Norte,18.628,6.262,43.302,5
+El Dorado,17.45,12.305,24.238,33
+Fresno,8.908,7.175,10.932,91
+Glenn,13.707,4.822,34.208,4
+Humboldt,32.78,23.837,43.995,44
+Imperial,7.827,4.43,12.867,15
+Inyo,27.513,11.005,62.535,5
+Kern,29.765,26.343,33.498,274
+Kings,9.672,5.51,15.86,15
+Lake,48.307,33.015,68.382,31
+Lassen,13.35,4.702,33.32,4
+Los Angeles,15.425,14.67,16.205,1573
+Madera,11.172,6.737,17.55,18
+Marin,18.205,13.435,24.152,47
+Mariposa,17.073,6.465,47.495,3
+Mendocino,53.227,39.175,70.722,47
+Merced,8.75,5.7,12.875,25
+Modoc,21.315,5.805,74.225,2
+Mono,0,0,26.66,0
+Monterey,6.065,4.008,8.812,27
+Napa,10.045,5.565,16.788,14
+Nevada,28.567,19.05,41.22,28
+Orange,23.242,21.61,24.975,746
+Placer,12.615,9.383,16.613,50
+Plumas,10.46,2.85,36.42,2
+Riverside,20.137,18.41,21.983,499
+Sacramento,14.31,12.498,16.308,223
+San Benito,16.2,8.06,29.547,10
+San Bernardino,16.087,14.457,17.852,354
+San Diego,21.8,20.25,23.443,729
+San Francisco,48.745,44.278,53.54,435
+San Joaquin,18.442,15.553,21.72,143
+San Luis Obispo,25.488,19.935,32.117,71
+San Mateo,10.835,8.652,13.412,84
+Santa Barbara,12.79,9.777,16.47,58
+Santa Clara,7.797,6.615,9.133,154
+Santa Cruz,14.183,10.117,19.355,39
+Shasta,26.635,19.753,35.248,47
+Sierra,0,0,119.07,0
+Siskiyou,18.47,7.97,36.39,8
+Solano,13.025,9.91,16.817,58
+Sonoma,24.358,20.238,29.075,122
+Stanislaus,19.218,15.775,23.195,108
+Sutter,21.168,13.328,32.145,21
+Tehama,12.508,6.2,23.995,8
+Trinity,37.938,12.755,88.182,5
+Tulare,11.835,9.057,15.242,57
+Tuolumne,19.33,9.615,35.255,10
+Unknown,NaN,0,NaN,126
+Ventura,25.29,22.035,28.898,215
+Yolo,2.655,1.252,5.548,6
+Yuba,21.76,12.732,34.792,17
+Source: CDPH Center for Health Statistics and Informatics Vital Statistics - Multiple Cause of Death or California Comprehensive Death Files,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,07.27.2023,,

@@ -1,0 +1,66 @@
+California Deaths by County -Total Population - 2014 ,,,,
+Any Opioid-Related Overdose : Crude Rate per 100k Residents,,,,
+County,Rates,95% LCL,95% UCL,Counts
+Alameda,3.163,2.355,4.155,51
+Alpine,0,0,333.23,0
+Amador,21.773,11.405,41.218,8
+Butte,6.25,3.745,10.207,14
+Calaveras,4.485,1.225,15.63,2
+California,5.218,4.992,5.45,2024
+Colusa,0,0,17.28,0
+Contra Costa,4.68,3.5,6.125,52
+Del Norte,7.355,2.005,25.615,2
+El Dorado,3.28,1.47,6.917,6
+Fresno,7.252,5.67,9.15,70
+Glenn,10.703,4.053,29.775,3
+Humboldt,21.51,14.463,30.832,29
+Imperial,6.69,3.585,11.577,12
+Inyo,0,0,20.05,0
+Kern,8.35,6.572,10.473,73
+Kings,7.99,4.282,13.83,12
+Lake,26.495,15.497,42.367,17
+Lassen,15.76,6.6,35.562,5
+Los Angeles,2.87,2.55,3.218,290
+Madera,6.473,3.152,11.852,10
+Marin,1.92,0.77,4.362,5
+Mariposa,28.35,11.88,63.98,5
+Mendocino,17.107,9.717,28.087,15
+Merced,5.262,3.068,8.658,14
+Modoc,11.092,3.022,59.093,1
+Mono,0,0,26.24,0
+Monterey,3.475,2.007,5.675,15
+Napa,3.535,1.48,7.975,5
+Nevada,5.062,1.7,11.768,5
+Orange,8.015,7.055,9.065,252
+Placer,2.428,1.153,4.565,9
+Plumas,21.54,9.3,52.375,4
+Riverside,6.272,5.295,7.372,146
+Sacramento,4.05,3.103,5.205,60
+San Benito,5.145,1.403,14.752,3
+San Bernardino,2.697,2.047,3.5,57
+San Diego,7.502,6.59,8.503,245
+San Francisco,10.442,8.402,12.828,89
+San Joaquin,9.65,7.518,12.203,69
+San Luis Obispo,6.45,3.848,10.17,18
+San Mateo,2.638,1.62,4.067,20
+Santa Barbara,4.987,3.177,7.5,22
+Santa Clara,3.005,2.283,3.893,57
+Santa Cruz,16.21,11.857,21.69,44
+Shasta,12.24,7.825,18.387,22
+Sierra,0,0,123.83,0
+Siskiyou,6.902,2.615,19.203,3
+Solano,6.732,4.522,9.655,29
+Sonoma,6.202,4.225,8.797,31
+Stanislaus,2.82,1.622,4.612,15
+Sutter,3.137,1.188,8.73,3
+Tehama,3.175,0.865,11.065,2
+Trinity,7.617,2.075,40.578,1
+Tulare,3.718,2.21,5.912,17
+Tuolumne,12.998,6.26,25.92,7
+Unknown,NaN,0,NaN,0
+Ventura,7.565,5.83,9.655,64
+Yolo,5.255,2.657,9.375,11
+Yuba,4.06,2.098,10.835,3
+Source: CDPH Center for Health Statistics and Informatics Vital Statistics - Multiple Cause of Death or California Comprehensive Death Files,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,08.12.2023,,

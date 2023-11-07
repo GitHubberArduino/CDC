@@ -1,0 +1,66 @@
+California Deaths by County -Total Population - 2016 ,,,,
+Any Opioid and Psychostimulant with Abuse Potential-Related Overdose : Crude Rate per 100k Residents,,,,
+County,Rates,95% LCL,95% UCL,Counts
+Alameda,0.668,0.35,1.185,11
+Alpine,0,0,344.43,0
+Amador,5.35,1.46,18.635,2
+Butte,0.882,0.38,2.96,2
+Calaveras,2.215,0.602,11.795,1
+California,1.257,1.15,1.373,494
+Colusa,0,0,17.09,0
+Contra Costa,0.702,0.328,1.37,8
+Del Norte,3.63,0.99,19.34,1
+El Dorado,1.075,0.295,3.755,2
+Fresno,1.225,0.66,2.115,12
+Glenn,0,0,13.13,0
+Humboldt,8.047,4.132,14.305,11
+Imperial,4.973,2.343,9.387,9
+Inyo,5.513,1.502,29.36,1
+Kern,2.15,1.312,3.335,19
+Kings,0,0,2.46,0
+Lake,1.56,0.425,8.305,1
+Lassen,3.24,0.882,17.258,1
+Los Angeles,0.95,0.768,1.157,96
+Madera,0.648,0.175,3.44,1
+Marin,1.532,0.542,3.832,4
+Mariposa,0,0,21.19,0
+Mendocino,4.562,1.605,11.395,4
+Merced,1.117,0.425,3.105,3
+Modoc,0,0,41.94,0
+Mono,0,0,26.38,0
+Monterey,0.69,0.26,1.918,3
+Napa,0,0,2.59,0
+Nevada,1.01,0.275,5.373,1
+Orange,2.272,1.775,2.86,72
+Placer,0.262,0.072,1.4,1
+Plumas,0,0,19.8,0
+Riverside,1.09,0.718,1.59,26
+Sacramento,0.528,0.242,1.03,8
+San Benito,1.683,0.458,8.967,1
+San Bernardino,0.56,0.305,0.968,12
+San Diego,2.02,1.567,2.562,67
+San Francisco,3.33,2.24,4.772,29
+San Joaquin,2.183,1.255,3.538,16
+San Luis Obispo,1.06,0.402,2.948,3
+San Mateo,0.26,0.07,0.91,2
+Santa Barbara,2.02,0.98,3.78,9
+Santa Clara,1.145,0.722,1.732,22
+Santa Cruz,3.277,1.545,6.183,9
+Shasta,1.115,0.305,3.875,2
+Sierra,0,0,125.17,0
+Siskiyou,4.585,1.25,15.975,2
+Solano,0.455,0.195,1.525,2
+Sonoma,0.4,0.11,1.385,2
+Stanislaus,0.74,0.335,1.78,4
+Sutter,0,0,3.82,0
+Tehama,1.58,0.43,8.42,1
+Trinity,7.822,2.132,41.677,1
+Tulare,0.218,0.06,1.155,1
+Tuolumne,0,0,6.86,0
+Unknown,NaN,0,NaN,0
+Ventura,0.822,0.35,1.688,7
+Yolo,0,0,1.71,0
+Yuba,2.655,0.725,9.255,2
+Source: CDPH Center for Health Statistics and Informatics Vital Statistics - Multiple Cause of Death or California Comprehensive Death Files,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,08.13.2023,,

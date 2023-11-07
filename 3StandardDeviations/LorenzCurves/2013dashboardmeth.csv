@@ -1,0 +1,66 @@
+California Deaths by County -Total Population - 2013 ,,,,
+Any Opioid and Psychostimulant with Abuse Potential-Related Overdose : Crude Rate per 100k Residents,,,,
+County,Rates,95% LCL,95% UCL,Counts
+Alameda,0.252,0.09,0.633,4
+Alpine,0,0,322.45,0
+Amador,0,0,10.08,0
+Butte,0.45,0.122,2.397,1
+Calaveras,0,0,8.28,0
+California,0.745,0.662,0.835,286
+Colusa,0,0,17.25,0
+Contra Costa,0.635,0.282,1.29,7
+Del Norte,0,0,13.26,0
+El Dorado,0,0,2.03,0
+Fresno,0.525,0.208,1.19,5
+Glenn,0,0,13.2,0
+Humboldt,3.713,1.558,8.383,5
+Imperial,2.252,0.79,5.625,4
+Inyo,5.435,1.48,28.942,1
+Kern,1.268,0.678,2.235,11
+Kings,0.662,0.18,3.535,1
+Lake,3.135,0.855,10.915,2
+Lassen,3.107,0.848,16.553,1
+Los Angeles,0.41,0.295,0.552,41
+Madera,1.315,0.36,4.575,2
+Marin,0.388,0.105,2.062,1
+Mariposa,0,0,20.8,0
+Mendocino,2.29,0.625,7.97,2
+Merced,1.14,0.43,3.17,3
+Modoc,0,0,40.49,0
+Mono,0,0,26.28,0
+Monterey,0.232,0.062,1.242,1
+Napa,0,0,2.63,0
+Nevada,3.06,0.832,8.77,3
+Orange,1.155,0.81,1.59,36
+Placer,0.818,0.422,2.185,3
+Plumas,0,0,19.58,0
+Riverside,1.002,0.658,1.482,23
+Sacramento,1.297,0.852,1.965,19
+San Benito,1.735,0.472,9.245,1
+San Bernardino,0.57,0.305,0.995,12
+San Diego,1.147,0.818,1.575,37
+San Francisco,1.07,0.56,1.973,9
+San Joaquin,1.418,0.698,2.59,10
+San Luis Obispo,0.725,0.195,2.525,2
+San Mateo,0.132,0.038,0.71,1
+Santa Barbara,0.458,0.198,1.54,2
+Santa Clara,0.642,0.345,1.107,12
+Santa Cruz,0.745,0.2,2.585,2
+Shasta,2.232,0.788,5.575,4
+Sierra,0,0,121.54,0
+Siskiyou,0,0,8.45,0
+Solano,0,0,0.87,0
+Sonoma,0.405,0.175,1.357,2
+Stanislaus,0.38,0.105,1.325,2
+Sutter,1.052,0.288,5.605,1
+Tehama,3.175,0.865,11.06,2
+Trinity,0,0,27.46,0
+Tulare,0.44,0.12,1.53,2
+Tuolumne,0,0,6.84,0
+Unknown,NaN,0,NaN,0
+Ventura,1.07,0.51,2.013,9
+Yolo,0,0,1.78,0
+Yuba,0,0,5.03,0
+Source: CDPH Center for Health Statistics and Informatics Vital Statistics - Multiple Cause of Death or California Comprehensive Death Files,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,08.13.2023,,

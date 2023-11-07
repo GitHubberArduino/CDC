@@ -1,0 +1,66 @@
+California Deaths by County -Total Population - 2015 ,,,,
+Any Opioid and Psychostimulant with Abuse Potential-Related Overdose : Crude Rate per 100k Residents,,,,
+County,Rates,95% LCL,95% UCL,Counts
+Alameda,0.852,0.492,1.415,14
+Alpine,0,0,332.33,0
+Amador,0,0,9.97,0
+Butte,0,0,1.64,0
+Calaveras,0,0,8.23,0
+California,1.058,0.96,1.163,414
+Colusa,0,0,17.17,0
+Contra Costa,0.977,0.508,1.732,11
+Del Norte,3.67,1,19.55,1
+El Dorado,0.542,0.148,2.888,1
+Fresno,1.332,0.715,2.28,13
+Glenn,0,0,13.17,0
+Humboldt,5.155,2.413,10.345,7
+Imperial,4.44,2.555,8.218,8
+Inyo,0,0,20.2,0
+Kern,2.72,1.775,4.02,24
+Kings,0,0,2.44,0
+Lake,6.192,3.54,14.34,4
+Lassen,0,0,11.77,0
+Los Angeles,0.522,0.398,0.672,53
+Madera,1.29,0.35,4.495,2
+Marin,0,0,1.41,0
+Mariposa,0,0,21.04,0
+Mendocino,4.562,1.605,11.387,4
+Merced,1.117,0.425,3.107,3
+Modoc,0,0,41.15,0
+Mono,0,0,26.52,0
+Monterey,0.23,0.062,1.228,1
+Napa,1.405,0.605,4.71,2
+Nevada,0,0,3.73,0
+Orange,1.64,1.232,2.147,52
+Placer,0.535,0.145,1.855,2
+Plumas,0,0,20.04,0
+Riverside,1.228,0.835,1.752,29
+Sacramento,0.202,0.053,0.572,3
+San Benito,1.7,0.462,9.058,1
+San Bernardino,0.518,0.267,0.912,11
+San Diego,1.638,1.232,2.13,54
+San Francisco,2.428,1.507,3.705,21
+San Joaquin,1.513,0.768,2.703,11
+San Luis Obispo,1.065,0.292,3.058,3
+San Mateo,0.52,0.14,1.34,4
+Santa Barbara,2.25,1.21,4.022,10
+Santa Clara,0.99,0.612,1.53,19
+Santa Cruz,1.095,0.3,3.143,3
+Shasta,2.23,0.785,5.558,4
+Sierra,0,0,124.33,0
+Siskiyou,2.295,0.625,12.23,1
+Solano,0.69,0.188,1.975,3
+Sonoma,2.39,1.278,4.133,12
+Stanislaus,1.115,0.575,2.29,6
+Sutter,0,0,3.82,0
+Tehama,1.58,0.43,8.418,1
+Trinity,0,0,28.23,0
+Tulare,0,0,0.8,0
+Tuolumne,0,0,6.87,0
+Unknown,NaN,0,NaN,0
+Ventura,1.41,0.747,2.447,12
+Yolo,0.94,0.255,3.27,2
+Yuba,2.685,0.73,9.35,2
+Source: CDPH Center for Health Statistics and Informatics Vital Statistics - Multiple Cause of Death or California Comprehensive Death Files,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,08.13.2023,,

@@ -1,0 +1,66 @@
+California Deaths by County -Total Population - 2013 ,,,,
+Fentanyl-Related Overdose  : Crude Rate per 100k Residents,,,,
+County,Rates,95% LCL,95% UCL,Counts
+Alameda,0.19,0.073,0.528,3
+Alpine,0,0,322.45,0
+Amador,0,0,10.08,0
+Butte,0,0,1.66,0
+Calaveras,0,0,8.28,0
+California,0.23,0.185,0.282,88
+Colusa,0,0,17.25,0
+Contra Costa,0.272,0.105,0.762,3
+Del Norte,0,0,13.26,0
+El Dorado,0,0,2.03,0
+Fresno,0.21,0.055,0.73,2
+Glenn,0,0,13.2,0
+Humboldt,0,0,2.74,0
+Imperial,0,0,2.08,0
+Inyo,0,0,20.04,0
+Kern,0.23,0.1,0.778,2
+Kings,0,0,2.45,0
+Lake,0,0,5.78,0
+Lassen,0,0,11.46,0
+Los Angeles,0.1,0.052,0.18,10
+Madera,0,0,2.42,0
+Marin,0,0,1.43,0
+Mariposa,0,0,20.8,0
+Mendocino,1.145,0.312,6.095,1
+Merced,0.76,0.328,2.547,2
+Modoc,0,0,40.49,0
+Mono,0,0,26.28,0
+Monterey,0,0,0.86,0
+Napa,0,0,2.63,0
+Nevada,1.02,0.278,5.43,1
+Orange,0.608,0.368,0.948,19
+Placer,0,0,1.01,0
+Plumas,0,0,19.58,0
+Riverside,0.172,0.062,0.438,4
+Sacramento,0.478,0.235,0.952,7
+San Benito,0,0,6.4,0
+San Bernardino,0.238,0.098,0.542,5
+San Diego,0.432,0.25,0.72,14
+San Francisco,0.478,0.218,1.147,4
+San Joaquin,0,0,0.52,0
+San Luis Obispo,0,0,1.34,0
+San Mateo,0.132,0.038,0.71,1
+Santa Barbara,0.23,0.062,1.225,1
+Santa Clara,0.16,0.06,0.448,3
+Santa Cruz,0,0,1.37,0
+Shasta,0.558,0.152,2.975,1
+Sierra,0,0,121.54,0
+Siskiyou,0,0,8.45,0
+Solano,0,0,0.87,0
+Sonoma,0,0,0.75,0
+Stanislaus,0,0,0.7,0
+Sutter,0,0,3.88,0
+Tehama,1.587,0.432,8.46,1
+Trinity,7.442,2.027,39.65,1
+Tulare,0,0,0.81,0
+Tuolumne,0,0,6.84,0
+Unknown,NaN,0,NaN,0
+Ventura,0.24,0.065,0.83,2
+Yolo,0.482,0.132,2.573,1
+Yuba,0,0,5.03,0
+Source: CDPH Center for Health Statistics and Informatics Vital Statistics - Multiple Cause of Death or California Comprehensive Death Files,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,08.13.2023,,

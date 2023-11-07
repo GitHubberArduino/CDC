@@ -1,0 +1,66 @@
+California Deaths by County -Total Population - 2014 ,,,,
+Any Opioid and Psychostimulant with Abuse Potential-Related Overdose : Crude Rate per 100k Residents,,,,
+County,Rates,95% LCL,95% UCL,Counts
+Alameda,0.438,0.175,0.892,7
+Alpine,0,0,333.23,0
+Amador,2.723,0.742,14.497,1
+Butte,0,0,1.65,0
+Calaveras,0,0,8.28,0
+California,0.878,0.788,0.972,340
+Colusa,0,0,17.28,0
+Contra Costa,0.9,0.448,1.642,10
+Del Norte,3.678,1.002,19.593,1
+El Dorado,0.548,0.15,2.913,1
+Fresno,0.827,0.382,1.61,8
+Glenn,0,0,13.16,0
+Humboldt,3.708,1.482,8.43,5
+Imperial,1.115,0.305,3.885,2
+Inyo,0,0,20.05,0
+Kern,1.83,1.16,2.872,16
+Kings,0.665,0.182,3.55,1
+Lake,3.115,0.85,10.855,2
+Lassen,0,0,11.63,0
+Los Angeles,0.532,0.402,0.695,54
+Madera,0.648,0.178,3.45,1
+Marin,0.385,0.105,2.047,1
+Mariposa,0,0,20.92,0
+Mendocino,1.14,0.31,6.077,1
+Merced,0,0,1.39,0
+Modoc,0,0,40.92,0
+Mono,0,0,26.24,0
+Monterey,0.232,0.062,1.238,1
+Napa,0.708,0.192,3.768,1
+Nevada,0,0,3.74,0
+Orange,1.75,1.32,2.275,55
+Placer,0,0,0.99,0
+Plumas,0,0,19.86,0
+Riverside,0.948,0.605,1.42,22
+Sacramento,0.405,0.18,0.852,6
+San Benito,1.715,0.468,9.137,1
+San Bernardino,0.332,0.132,0.685,7
+San Diego,1.53,1.143,2.015,50
+San Francisco,1.645,0.91,2.745,14
+San Joaquin,2.938,1.832,4.475,21
+San Luis Obispo,0.718,0.31,2.403,2
+San Mateo,0.265,0.07,0.92,2
+Santa Barbara,0.905,0.39,2.205,4
+Santa Clara,0.528,0.3,0.93,10
+Santa Cruz,1.84,0.618,4.28,5
+Shasta,2.785,1.167,6.277,5
+Sierra,0,0,123.83,0
+Siskiyou,0,0,8.49,0
+Solano,0.465,0.125,1.62,2
+Sonoma,1.2,0.475,2.587,6
+Stanislaus,0.188,0.05,1,1
+Sutter,1.045,0.285,5.572,1
+Tehama,0,0,5.86,0
+Trinity,0,0,28.1,0
+Tulare,0.435,0.12,1.525,2
+Tuolumne,0,0,6.85,0
+Unknown,NaN,0,NaN,0
+Ventura,0.945,0.495,1.79,8
+Yolo,1.432,0.39,4.107,3
+Yuba,0,0,4.99,0
+Source: CDPH Center for Health Statistics and Informatics Vital Statistics - Multiple Cause of Death or California Comprehensive Death Files,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,08.13.2023,,

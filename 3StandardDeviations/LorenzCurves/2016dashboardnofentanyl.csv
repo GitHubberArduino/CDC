@@ -1,0 +1,66 @@
+California Deaths by County -Total Population - 2016 ,,,,
+Prescription Opioid-Related Overdose (excl Synthetics) : Crude Rate per 100k Residents,,,,
+County,Rates,95% LCL,95% UCL,Counts
+Alameda,1.883,1.282,2.665,31
+Alpine,0,0,344.43,0
+Amador,10.7,2.92,27.4,4
+Butte,4.407,2.19,8.037,10
+Calaveras,6.645,1.808,19.045,3
+California,3.038,2.868,3.215,1192
+Colusa,9.265,2.525,32.265,2
+Contra Costa,2.995,2.087,4.175,34
+Del Norte,7.26,1.98,25.29,2
+El Dorado,2.69,1.13,6.08,5
+Fresno,5.513,4.147,7.18,54
+Glenn,3.56,0.97,18.965,1
+Humboldt,16.832,11.022,24.935,23
+Imperial,1.105,0.478,3.708,2
+Inyo,5.513,1.502,29.36,1
+Kern,4.067,2.932,5.558,36
+Kings,2.67,0.942,6.665,4
+Lake,10.92,4.615,22.305,7
+Lassen,19.44,7.36,42.12,6
+Los Angeles,2.013,1.745,2.305,204
+Madera,6.465,3.212,11.79,10
+Marin,1.915,0.648,4.46,5
+Mariposa,5.745,1.565,30.6,1
+Mendocino,13.69,7.335,23.695,12
+Merced,6.33,3.788,10.037,17
+Modoc,0,0,41.94,0
+Mono,0,0,26.38,0
+Monterey,0.69,0.26,1.918,3
+Napa,0,0,2.59,0
+Nevada,4.037,1.84,9.73,4
+Orange,5.77,4.968,6.665,183
+Placer,1.84,1.03,3.55,7
+Plumas,0,0,19.8,0
+Riverside,2.138,1.595,2.805,51
+Sacramento,1.718,1.127,2.51,26
+San Benito,1.683,0.458,8.967,1
+San Bernardino,0.745,0.432,1.208,16
+San Diego,4.19,3.525,4.945,139
+San Francisco,6.43,4.872,8.338,56
+San Joaquin,5.86,4.277,7.86,43
+San Luis Obispo,1.413,0.5,3.528,4
+San Mateo,1.962,1.113,3.225,15
+Santa Barbara,2.688,1.418,4.67,12
+Santa Clara,2.19,1.582,2.953,42
+Santa Cruz,5.825,3.373,9.425,16
+Shasta,4.452,1.975,8.732,8
+Sierra,0,0,125.17,0
+Siskiyou,16.053,6.785,32.8,7
+Solano,2.955,1.72,4.92,13
+Sonoma,2.788,1.578,4.622,14
+Stanislaus,1.665,0.78,3.135,9
+Sutter,4.14,1.785,10.065,4
+Tehama,1.58,0.43,8.42,1
+Trinity,7.822,2.132,41.677,1
+Tulare,1.522,0.622,3.12,7
+Tuolumne,7.435,3.21,18.08,4
+Unknown,NaN,0,NaN,0
+Ventura,2.825,1.832,4.188,24
+Yolo,3.245,1.328,6.662,7
+Yuba,1.327,0.362,7.078,1
+Source: CDPH Center for Health Statistics and Informatics Vital Statistics - Multiple Cause of Death or California Comprehensive Death Files,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,08.13.2023,,

@@ -1,0 +1,66 @@
+California Deaths by County -Total Population - 2019 ,,,,
+Fentanyl-Related Overdose  : Crude Rate per 100k Residents,,,,
+County,Rates,95% LCL,95% UCL,Counts
+Alameda,3.328,2.55,4.282,56
+Alpine,0,0,358.84,0
+Amador,5.05,1.375,17.585,2
+Butte,0.86,0.235,2.99,2
+Calaveras,0,0,8.1,0
+California,4.057,3.863,4.26,1603
+Colusa,4.593,1.25,24.46,1
+Contra Costa,4.213,3.127,5.56,49
+Del Norte,0,0,13.23,0
+El Dorado,1.045,0.285,3.64,2
+Fresno,1.492,0.87,2.433,15
+Glenn,0,0,13.09,0
+Humboldt,5.84,2.52,11.51,8
+Imperial,3.26,1.712,6.67,6
+Inyo,5.555,1.512,29.59,1
+Kern,5.95,4.473,7.76,54
+Kings,0,0,2.42,0
+Lake,6.2,2.183,15.478,4
+Lassen,6.482,2.797,21.742,2
+Los Angeles,4,3.62,4.405,406
+Madera,1.882,0.51,5.393,3
+Marin,4.223,2.192,7.485,11
+Mariposa,0,0,21.23,0
+Mendocino,10.223,4.815,19.297,9
+Merced,1.44,0.505,3.59,4
+Modoc,0,0,42.78,0
+Mono,0,0,26.09,0
+Monterey,2.05,1.135,3.723,9
+Napa,1.43,0.39,4.97,2
+Nevada,0,0,3.69,0
+Orange,3.933,3.28,4.673,126
+Placer,1.51,0.71,3.15,6
+Plumas,5.338,1.455,28.435,1
+Riverside,5.388,4.52,6.37,134
+Sacramento,2.31,1.633,3.18,36
+San Benito,4.827,1.827,13.43,3
+San Bernardino,3.375,2.65,4.235,74
+San Diego,4.22,3.558,4.975,142
+San Francisco,22.082,19.18,25.317,196
+San Joaquin,1.835,1.123,2.97,14
+San Luis Obispo,2.8,1.438,5.325,8
+San Mateo,4.648,3.255,6.428,36
+Santa Barbara,3.337,1.92,5.457,15
+Santa Clara,1.277,0.842,1.872,25
+Santa Cruz,1.81,0.755,4.082,5
+Shasta,3.325,1.485,7.013,6
+Sierra,0,0,125.05,0
+Siskiyou,2.29,0.625,12.203,1
+Solano,3.985,2.373,6.285,18
+Sonoma,8.145,5.86,11.033,41
+Stanislaus,2.697,1.57,4.383,15
+Sutter,2.045,0.555,7.125,2
+Tehama,0,0,5.75,0
+Trinity,0,0,30.13,0
+Tulare,1.275,0.57,2.69,6
+Tuolumne,1.832,0.5,9.76,1
+Unknown,NaN,0,NaN,2
+Ventura,4.445,3.147,6.098,38
+Yolo,0.9,0.245,3.13,2
+Yuba,5.078,2.312,12.242,4
+Source: CDPH Center for Health Statistics and Informatics Vital Statistics - Multiple Cause of Death or California Comprehensive Death Files,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,08.13.2023,,

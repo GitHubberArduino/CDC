@@ -1,0 +1,66 @@
+California Deaths by County -Total Population - 2020 ,,,,
+Any Opioid-Related Overdose : Crude Rate per 100k Residents,,,,
+County,Rates,95% LCL,95% UCL,Counts
+Alameda,8.562,7.225,10.08,144
+Alpine,0,0,329.95,0
+Amador,9.968,3.51,24.875,4
+Butte,11.78,7.78,17.17,26
+Calaveras,4.357,1.88,14.605,2
+California,13.873,13.508,14.242,5502
+Colusa,13.815,3.765,39.625,3
+Contra Costa,12.422,10.48,14.62,144
+Del Norte,10.725,4.062,29.84,3
+El Dorado,11.247,7.17,16.913,22
+Fresno,7.037,5.505,8.875,71
+Glenn,10.49,3.973,29.183,3
+Humboldt,17.8,11.453,26.433,24
+Imperial,17.5,12.115,24.56,32
+Inyo,16.59,4.522,47.587,3
+Kern,24.41,21.315,27.83,222
+Kings,6.447,3.257,11.707,10
+Lake,26.352,15.637,41.932,17
+Lassen,22.71,10.072,45.987,7
+Los Angeles,12.973,12.277,13.692,1300
+Madera,4.41,1.808,9.07,7
+Marin,12.787,8.838,17.93,33
+Mariposa,5.81,1.582,30.957,1
+Mendocino,23.065,14.332,35.403,20
+Merced,10.295,7.035,14.662,29
+Modoc,0,0,41.68,0
+Mono,0,0,25.56,0
+Monterey,5.737,3.715,8.462,25
+Napa,5.828,2.89,11.178,8
+Nevada,30.06,20.36,42.835,30
+Orange,15.795,14.455,17.227,503
+Placer,11.133,8.127,14.888,45
+Plumas,5.265,1.435,28.043,1
+Riverside,16.035,14.5,17.678,400
+Sacramento,6.822,5.61,8.227,107
+San Benito,6.25,1.7,16,4
+San Bernardino,13.087,11.625,14.688,288
+San Diego,15.77,14.457,17.165,528
+San Francisco,50.45,45.89,55.343,443
+San Joaquin,10.997,8.812,13.57,85
+San Luis Obispo,20.13,15.275,26.058,57
+San Mateo,10.54,8.38,13.092,81
+Santa Barbara,3.57,2.11,5.737,16
+Santa Clara,7.41,6.248,8.72,143
+Santa Cruz,9.527,6.255,13.933,26
+Shasta,14.94,10.033,21.562,27
+Sierra,0,0,121.99,0
+Siskiyou,16.085,7.865,31.988,7
+Solano,8.65,6.225,11.752,39
+Sonoma,22.525,18.557,27.102,111
+Stanislaus,13.32,10.51,16.668,74
+Sutter,11.107,6.213,19.308,11
+Tehama,3.045,0.83,10.61,2
+Trinity,0,0,30.17,0
+Tulare,8.287,5.942,11.285,39
+Tuolumne,3.68,1.587,12.342,2
+Unknown,NaN,0,NaN,113
+Ventura,16.688,14.095,19.64,141
+Yolo,4.51,2.31,8.17,10
+Yuba,11.255,5.877,20.755,9
+Source: CDPH Center for Health Statistics and Informatics Vital Statistics - Multiple Cause of Death or California Comprehensive Death Files,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,08.12.2023,,

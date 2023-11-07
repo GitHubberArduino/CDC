@@ -1,0 +1,66 @@
+California Deaths by County -Total Population - 2015 ,,,,
+Prescription Opioid-Related Overdose (excl Synthetics) : Crude Rate per 100k Residents,,,,
+County,Rates,95% LCL,95% UCL,Counts
+Alameda,2.87,2.125,3.797,47
+Alpine,0,0,332.33,0
+Amador,5.405,1.475,18.825,2
+Butte,6.652,3.745,10.957,15
+Calaveras,11.152,3.748,25.928,5
+California,3.175,3,3.355,1243
+Colusa,0,0,17.17,0
+Contra Costa,3.018,2.1,4.205,34
+Del Norte,3.67,1,19.55,1
+El Dorado,2.712,1.083,6.163,5
+Fresno,5.332,3.99,6.99,52
+Glenn,3.57,0.972,19.015,1
+Humboldt,11.79,6.968,18.94,16
+Imperial,2.22,0.78,5.54,4
+Inyo,0,0,20.2,0
+Kern,5.1,3.725,6.817,45
+Kings,3.312,1.325,7.525,5
+Lake,27.865,17.928,42.822,18
+Lassen,6.38,2.755,21.4,2
+Los Angeles,1.87,1.615,2.15,190
+Madera,6.45,3.527,11.5,10
+Marin,1.147,0.435,3.192,3
+Mariposa,5.705,1.555,30.385,1
+Mendocino,5.702,1.915,13.255,5
+Merced,6.705,4.04,10.537,18
+Modoc,11.155,3.04,59.422,1
+Mono,0,0,26.52,0
+Monterey,1.383,0.62,2.918,6
+Napa,3.513,1.402,7.98,5
+Nevada,1.012,0.275,5.388,1
+Orange,5.395,4.62,6.265,171
+Placer,2.665,1.325,4.857,10
+Plumas,16.297,6.17,45.335,3
+Riverside,2.625,2.022,3.357,62
+Sacramento,1.868,1.242,2.695,28
+San Benito,3.402,1.468,11.405,2
+San Bernardino,0.75,0.43,1.218,16
+San Diego,4.395,3.712,5.168,145
+San Francisco,7.055,5.397,9.057,61
+San Joaquin,4.685,3.26,6.525,34
+San Luis Obispo,6.395,3.925,9.985,18
+San Mateo,1.962,1.117,3.218,15
+Santa Barbara,4.048,2.622,6.2,18
+Santa Clara,2.242,1.622,3.02,43
+Santa Cruz,4.745,2.55,8.09,13
+Shasta,5.015,2.385,9.432,9
+Sierra,0,0,124.33,0
+Siskiyou,13.775,5.215,29.85,6
+Solano,2.522,1.31,4.47,11
+Sonoma,3.385,2.015,5.38,17
+Stanislaus,3.157,1.857,5.037,17
+Sutter,0,0,3.82,0
+Tehama,3.16,1.365,10.598,2
+Trinity,15.303,6.607,51.328,2
+Tulare,0.652,0.18,1.872,3
+Tuolumne,18.62,10.123,33.245,10
+Unknown,NaN,0,NaN,0
+Ventura,2.82,1.852,4.155,24
+Yolo,3.757,1.732,7.305,8
+Yuba,4.027,1.525,11.203,3
+Source: CDPH Center for Health Statistics and Informatics Vital Statistics - Multiple Cause of Death or California Comprehensive Death Files,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,08.13.2023,,

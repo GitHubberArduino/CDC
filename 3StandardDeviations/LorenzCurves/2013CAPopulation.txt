@@ -1,0 +1,58 @@
+Alameda County	1,578,702
+Alpine County	1,164
+Amador County	36,098
+Butte County	222,194
+Calaveras County	45,117
+Colusa County	21,557
+Contra Costa County	1,091,909
+Del Norte County	27,420
+El Dorado County	182,162
+Fresno County	960,712
+Glenn County	28,185
+Humboldt County	134,562
+Imperial County	180,066
+Inyo County	18,591
+Kern County	868,744
+Kings County	150,219
+Lake County	64,900
+Lassen County	31,888
+Los Angeles County	10,054,919
+Madera County	151,989
+Marin County	259,376
+Mariposa County	18,157
+Mendocino County	88,024
+Merced County	264,353
+Modoc County	9,610
+Mono County	13,843
+Monterey County	426,959
+Napa County	139,617
+Nevada County	97,752
+Orange County	3,110,857
+Placer County	365,273
+Plumas County	18,806
+Riverside County	2,276,536
+Sacramento County	1,456,539
+San Benito County	57,254
+San Bernardino County	2,087,639
+San Diego County	3,212,923
+San Francisco County	847,529
+San Joaquin County	705,941
+San Luis Obispo County	273,973
+San Mateo County	750,593
+Santa Barbara County	435,222
+Santa Clara County	1,872,615
+Santa Cruz County	271,105
+Shasta County	178,832
+Sierra County	3,192
+Siskiyou County	44,750
+Solano County	421,173
+Sonoma County	495,339
+Stanislaus County	527,585
+Sutter County	96,477
+Tehama County	62,939
+Trinity County	13,685
+Tulare County	455,992
+Tuolumne County	54,349
+Ventura County	841,744
+Yolo County	208,205
+Yuba County	73,318

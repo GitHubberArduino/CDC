@@ -1,0 +1,66 @@
+California Deaths by County -Total Population - 2018 ,,,,
+Any Opioid-Related Overdose : Crude Rate per 100k Residents,,,,
+County,Rates,95% LCL,95% UCL,Counts
+Alameda,3.36,2.542,4.357,56
+Alpine,0,0,335.05,0
+Amador,2.54,0.692,13.53,1
+Butte,7.353,4.308,11.745,17
+Calaveras,6.577,2.49,18.303,3
+California,6.138,5.898,6.385,2428
+Colusa,0,0,17.06,0
+Contra Costa,7.13,5.678,8.842,82
+Del Norte,0,0,13.26,0
+El Dorado,3.673,1.55,7.5,7
+Fresno,3.52,2.473,4.875,35
+Glenn,3.565,0.972,18.992,1
+Humboldt,11.735,7.085,18.712,16
+Imperial,8.8,5.488,13.9,16
+Inyo,16.68,4.545,47.832,3
+Kern,10.258,8.29,12.562,92
+Kings,2.643,0.93,6.598,4
+Lake,32.617,20.62,49.462,21
+Lassen,12.988,4.572,32.415,4
+Los Angeles,4.918,4.495,5.373,497
+Madera,3.805,1.44,8.25,6
+Marin,3.08,1.545,5.893,8
+Mariposa,0,0,21.11,0
+Mendocino,15.98,9.607,26.072,14
+Merced,7.277,4.49,11.205,20
+Modoc,0,0,42.03,0
+Mono,0,0,25.89,0
+Monterey,1.837,0.96,3.478,8
+Napa,5.022,2.123,10.262,7
+Nevada,7.02,3.43,13.96,7
+Orange,7.91,6.967,8.947,252
+Placer,2.032,0.905,3.99,8
+Plumas,10.635,2.9,37.04,2
+Riverside,5.878,4.96,6.912,144
+Sacramento,4.543,3.55,5.728,70
+San Benito,3.25,0.885,11.315,2
+San Bernardino,4.883,3.998,5.905,106
+San Diego,8.015,7.088,9.035,268
+San Francisco,16.645,14.082,19.535,147
+San Joaquin,3.455,2.263,5.05,26
+San Luis Obispo,4.58,2.47,7.798,13
+San Mateo,5.07,3.655,6.88,39
+Santa Barbara,7.39,5.11,10.357,33
+Santa Clara,3.098,2.362,3.985,60
+Santa Cruz,8.387,5.468,12.438,23
+Shasta,5.553,2.92,9.992,10
+Sierra,0,0,123.5,0
+Siskiyou,4.575,1.245,15.93,2
+Solano,4.253,2.58,6.628,19
+Sonoma,8.6,6.235,11.575,43
+Stanislaus,6.365,4.49,8.8,35
+Sutter,8.262,3.67,16.198,8
+Tehama,3.13,0.855,10.895,2
+Trinity,15.955,6.888,53.51,2
+Tulare,1.505,0.612,3.085,7
+Tuolumne,1.832,0.5,9.765,1
+Unknown,NaN,0,NaN,77
+Ventura,11.162,9.032,13.643,95
+Yolo,2.268,0.908,5.155,5
+Yuba,5.127,1.807,12.793,4
+Source: CDPH Center for Health Statistics and Informatics Vital Statistics - Multiple Cause of Death or California Comprehensive Death Files,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,08.12.2023,,

@@ -1,0 +1,66 @@
+California Deaths by County -Total Population - 2020 ,,,,
+Fentanyl-Related Overdose  : Crude Rate per 100k Residents,,,,
+County,Rates,95% LCL,95% UCL,Counts
+Alameda,6.96,5.76,8.33,117
+Alpine,0,0,329.95,0
+Amador,4.982,2.15,16.71,2
+Butte,2.718,1.215,5.735,6
+Calaveras,2.178,0.592,11.6,1
+California,9.948,9.643,10.263,3946
+Colusa,4.605,1.255,24.535,1
+Contra Costa,9.317,7.648,11.242,108
+Del Norte,10.725,4.062,29.84,3
+El Dorado,5.112,2.495,9.365,10
+Fresno,4.263,3.105,5.723,43
+Glenn,3.498,0.952,18.628,1
+Humboldt,7.417,4.163,13.127,10
+Imperial,9.84,5.965,15.435,18
+Inyo,16.59,4.522,47.587,3
+Kern,15.283,12.875,18.02,139
+Kings,3.223,1.35,7.272,5
+Lake,7.75,3.74,17.095,5
+Lassen,6.487,2.8,21.76,2
+Los Angeles,9.675,9.082,10.305,970
+Madera,1.89,0.518,5.428,3
+Marin,8.525,5.43,12.828,22
+Mariposa,0,0,21.44,0
+Mendocino,16.148,9.005,26.932,14
+Merced,6.39,3.85,10.047,18
+Modoc,0,0,41.68,0
+Mono,0,0,25.56,0
+Monterey,5.275,3.36,7.902,23
+Napa,3.64,1.525,8.22,5
+Nevada,18.035,11.16,28.075,18
+Orange,12.09,10.928,13.348,385
+Placer,6.435,4.2,9.42,26
+Plumas,0,0,19.42,0
+Riverside,10.982,9.725,12.36,274
+Sacramento,3.445,2.61,4.475,54
+San Benito,3.125,0.85,10.88,2
+San Bernardino,10.317,9.022,11.742,227
+San Diego,12.123,10.985,13.352,406
+San Francisco,43.273,39.072,47.817,380
+San Joaquin,6.6,4.94,8.65,51
+San Luis Obispo,11.652,8.06,16.332,33
+San Mateo,7.55,5.748,9.745,58
+Santa Barbara,2.232,1.127,4.055,10
+Santa Clara,4.353,3.493,5.372,84
+Santa Cruz,4.763,2.56,8.122,13
+Shasta,3.875,1.812,7.77,7
+Sierra,0,0,121.99,0
+Siskiyou,4.595,1.25,16.01,2
+Solano,5.77,3.825,8.393,26
+Sonoma,20.703,16.905,25.108,102
+Stanislaus,9.72,7.372,12.613,54
+Sutter,4.04,1.423,10.08,4
+Tehama,1.522,0.415,8.115,1
+Trinity,0,0,30.17,0
+Tulare,6.162,4.178,8.805,29
+Tuolumne,1.84,0.502,9.803,1
+Unknown,NaN,0,NaN,71
+Ventura,10.18,8.21,12.505,86
+Yolo,3.605,1.645,7.04,8
+Yuba,6.25,2.5,14.21,5
+Source: CDPH Center for Health Statistics and Informatics Vital Statistics - Multiple Cause of Death or California Comprehensive Death Files,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
+File downloaded on,,08.13.2023,,
